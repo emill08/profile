@@ -43,7 +43,7 @@ export default function Project() {
         </div>
       </div>
       <div className="flex flex-row justify-center mt-48 space-x-12">
-        <Link href="/" className="card w-96 bg-base-100 shadow-xl hover:scale-110">
+        <Link href="/project/seeker" className="card w-96 bg-base-100 shadow-xl hover:scale-110">
           <figure>
             <img src="/Seeker.png" alt="seeker" />
           </figure>
