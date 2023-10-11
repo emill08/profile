@@ -62,7 +62,7 @@ export default function Project() {
             </div>
           </div>
         </Link>
-        <Link href='/' className="card w-96 bg-base-100 shadow-xl hover:scale-110">
+        <Link href='/project/gamezone' className="card w-96 bg-base-100 shadow-xl hover:scale-110">
           <figure>
             <img className="h-48" src="/gamezone.png" alt="gamezone" />
           </figure>
@@ -78,7 +78,7 @@ export default function Project() {
             </div>
           </div>
         </Link>
-        <Link href='/' className="card w-96 bg-base-100 shadow-xl hover:scale-110">
+        <Link href='/project/mkid' className="card w-96 bg-base-100 shadow-xl hover:scale-110">
           <figure>
             <img className="h-48" src="/mkid.png" alt="mkid" />
           </figure>

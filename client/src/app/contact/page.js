@@ -50,16 +50,16 @@ export default function Contact() {
           <div className="card-body">
             <h2 className="card-title">Collaborate with Me? Contact Here</h2>
             <div className="card-actions flex flex-col items-center justify-end">
-              <Link className="btn-ghost rounded-full px-4" href="https://www.linkedin.com/in/emilia-hanida-prilianti-746225192/" target="_blank">
+              <Link className="hover:scale-150 px-4" href="https://www.linkedin.com/in/emilia-hanida-prilianti-746225192/" target="_blank">
               <img
                 className="h-24"
                 src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png"
                 />
                 </Link>
-                <Link className="btn-ghost rounded-full px-4" href="https://github.com/emill08" target="_blank">
+                <Link className="hover:scale-150 px-4" href="https://github.com/emill08" target="_blank">
               <img className="h-24" src="/github-logo.png" />
                 </Link>
-                <Link className="btn-ghost rounded-full px-4 mt-3" href="mailto:emiliahanida@gmail.com" target="_blank">
+                <Link className="hover:scale-150 px-4 mt-5" href="mailto:emiliahanida@gmail.com" target="_blank">
               <img className="h-24" src="/gmail.png" />
                 </Link>
             </div>
